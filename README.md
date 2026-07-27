@@ -25,7 +25,7 @@
 
 ---
 
-## #I'm currently working on ...
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I'm currently working on ...
 
 - 🧠 **Synapse** — AI Memory Infrastructure for persistent contextual memory across LLM sessions.
 - 📦 **@khareindustries/synapse-sdk** — Zero-dependency TypeScript SDK published on npm.
