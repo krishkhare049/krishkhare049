@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Cartoon%20Hello%20GIF.gif" width="50px" />Hello!
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FDBE00&height=280&section=header&text=KRISH%20KHARE&fontSize=56&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Building%20AI%20Infrastructure%20%7C%20Synapse&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FDBE00&height=260&section=header&text=Krish%20Khare&fontSize=52&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descAlign=50"/>
 </p>
 
 <p align="center">
