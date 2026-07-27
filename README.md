@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+## <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Cartoon%20Hello%20GIF.gif" width="50px" />Hello!
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FDBE00&height=280&section=header&text=KRISH%20KHARE&fontSize=56&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Building%20AI%20Infrastructure%20%7C%20Synapse&descAlignY=58"/>
