@@ -147,19 +147,9 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishkhare049&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkhare049&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishkhare049&theme=tokyonight&hide_border=true"/>
-
-</p>
+![](https://github-readme-stats.shion.dev/api?username=krishkhare049&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=krishkhare049&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishkhare049&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
