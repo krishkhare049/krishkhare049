@@ -21,7 +21,7 @@
   <br/>
 </p>
 
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right" width="30%" />
+<img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Pixel%20Searching%20GIF%20by%20BigBrains.gif" align="right" width="30%" />
 
 ---
 
