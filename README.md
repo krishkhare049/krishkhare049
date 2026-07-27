@@ -25,7 +25,7 @@
 
 ---
 
-### <img src="https://github.com/krishkhare049/krishkhare049/blob/main/Pixel%20Searching%20GIF%20by%20BigBrains.gif" width="70px" /> I'm currently working on ...
+## #I'm currently working on ...
 
 - 🧠 **Synapse** — AI Memory Infrastructure for persistent contextual memory across LLM sessions.
 - 📦 **@khareindustries/synapse-sdk** — Zero-dependency TypeScript SDK published on npm.
