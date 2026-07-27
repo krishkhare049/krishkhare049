@@ -3,7 +3,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Krish%20Khare&font=Great%20Vibes&fontSize=78&fontColor=000000&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=Krish%20Khare&font=Pacifico&fontSize=70&fontColor=000000&animation=fadeIn"
   />
 </p>
 
