@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Cartoon%20Hello%20GIF.gif" width="50px" />Hello!
+## <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Cartoon%20Hello%20GIF.gif" width="150px" />Hello!
 
 <p align="center">
   <img
