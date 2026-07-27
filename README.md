@@ -182,6 +182,9 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h3 align="center">
 ⭐ Building the future of AI Memory Infrastructure with ❤️ from India 🇮🇳
 </h3>
