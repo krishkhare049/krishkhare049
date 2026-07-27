@@ -1,6 +1,10 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FDBE00&height=280&section=header&text=KRISH%20KHARE&fontSize=56&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Building%20AI%20Infrastructure%20%7C%20Synapse&descAlignY=58"/>
+</p>
+
+<p align="center">
   <samp>
     My name is <em>Krish</em>. I am a <strong>Full-Stack & AI Engineer</strong>.
     <br/>
