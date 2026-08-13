@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Cartoon%20Hello%20GIF.gif" width="150px" />Hello!
+## <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Cartoon%20Hello%20GIF.gif" width="150px" /> Hello!
 
 <p align="center">
   <img
@@ -23,12 +23,15 @@
     <br/>
     and building products developers love.
   </samp>
-  <br/>
-  <br/>
-  <br/>
 </p>
 
-<img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Pixel%20Searching%20GIF%20by%20BigBrains.gif" align="right" width="30%" />
+<br/>
+
+<img
+src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Pixel%20Searching%20GIF%20by%20BigBrains.gif"
+align="right"
+width="30%"
+/>
 
 ---
 
@@ -83,7 +86,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/bongocat.gif" width="50px" /> Featured Projects
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Penguins%20Of%20Madagascar%20Hello%20GIF.gif" width="70px" /> Featured Projects
 
 #### 🧠 Synapse
 
@@ -103,7 +106,7 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/bongocat.gif" width="50px" /> How to reach me
+### 🐧 How to reach me
 
 <p align="center">
 
@@ -131,7 +134,7 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/pickaxe.png" width="40px" /> Tools & Frameworks
+### 🛠️ Tools & Frameworks
 
 <p align="center">
 
@@ -149,15 +152,32 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/stats.png" width="35px" /> GitHub Stats
+### 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=krishkhare049\&theme=ambient_gradient\&hide_border=true\&include_all_commits=false\&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=krishkhare049\&theme=ambient_gradient\&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishkhare049\&theme=ambient_gradient\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
+<p align="center">
+
+<img
+src="https://github-readme-stats.shion.dev/api?username=krishkhare049&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false"
+width="48%"
+/>
+
+<img
+src="https://streak-stats.demolab.com/?user=krishkhare049&theme=ambient_gradient&hide_border=true"
+width="48%"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=krishkhare049&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+width="48%"
+/>
+
+</p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/controller.png" width="40px" /> Current Goals
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/bongocat.gif" width="50px" /> Current Goals
 
 * 🚀 Launch Synapse publicly
 * 🌍 Build AI infrastructure used by developers worldwide
@@ -167,7 +187,7 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/party_parrot.gif" height="40px" /> Fun Facts
+### 🐱 Fun Facts
 
 * ☕ I can spend hours optimizing backend systems.
 * 🧠 I enjoy building products from scratch.
@@ -178,12 +198,19 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishkhare049&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=krishkhare049&style=for-the-badge&color=blue"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</p>
 
 <h3 align="center">
 ⭐ Building the future of AI Memory Infrastructure with ❤️ from India 🇮🇳
