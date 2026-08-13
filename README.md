@@ -32,74 +32,78 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I'm currently working on ...
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/PusheenCompute.gif" width="70px" /> I'm currently working on ...
 
-- 🧠 **Synapse** — AI Memory Infrastructure for persistent contextual memory across LLM sessions.
-- 📦 **@khareindustries/synapse-sdk** — Zero-dependency TypeScript SDK published on npm.
-- ⚡ Building scalable backend systems using FastAPI, Redis, Qdrant, and AWS.
-- 🚀 Growing Khare Industries and open-source AI developer tools.
-
----
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I'm currently learning ...
-
-- 🤖 AI Agents & Agentic Workflows
-- ⚡ Distributed Systems & High-Performance Backend Architecture
-- ☸️ Kubernetes & Cloud Infrastructure
-- 🧠 Semantic Search, Vector Databases & RAG
-- 🦙 Self-Hosted LLMs & Model Optimization
+* 🧠 **Synapse** — AI Memory Infrastructure for persistent contextual memory across LLM sessions.
+* 📦 **@khareindustries/synapse-sdk** — Zero-dependency TypeScript SDK published on npm.
+* ⚡ Building scalable backend systems using FastAPI, Redis, Qdrant, and AWS.
+* 🚀 Growing Khare Industries and open-source AI developer tools.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I'm looking to collaborate on ...
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Confused_Dog.gif" height="50px" /> I'm currently learning ...
 
-- 🤖 Open Source AI Projects
-- ⚡ Backend Infrastructure
-- 🧠 Developer Tools
-- 🌍 Innovative SaaS Products
-
----
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I'm looking for help with ...
-
-- 🚀 Scaling Synapse globally
-- 🌍 Building a developer community
-- 💡 Crazy AI ideas worth building
-- 📈 Open Source Growth
+* 🤖 AI Agents & Agentic Workflows
+* ⚡ Distributed Systems & High-Performance Backend Architecture
+* ☸️ Kubernetes & Cloud Infrastructure
+* 🧠 Semantic Search, Vector Databases & RAG
+* 🦙 Self-Hosted LLMs & Model Optimization
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" /> Ask me about ...
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/pug_dance.gif" width="60px" /> I'm looking to collaborate on ...
 
-- ⚡ FastAPI
-- 🟨 Node.js
-- 🔴 Redis
-- 🟣 Qdrant
-- 🤖 AI Infrastructure
-- 🧠 Long-Term Memory for LLMs
-- 📱 React Native
-- 🌐 Full-Stack Development
-- ☁️ Backend Architecture
+* 🤖 Open Source AI Projects
+* ⚡ Backend Infrastructure
+* 🧠 Developer Tools
+* 🌍 Innovative SaaS Products
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> Featured Projects
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/cool_duck.gif" width="60px" /> I'm looking for help with ...
+
+* 🚀 Scaling Synapse globally
+* 🌍 Building a developer community
+* 💡 Crazy AI ideas worth building
+* 📈 Open Source Growth
+
+---
+
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/question.png" width="50px" /> Ask me about ...
+
+* ⚡ FastAPI
+* 🟨 Node.js
+* 🔴 Redis
+* 🟣 Qdrant
+* 🤖 AI Infrastructure
+* 🧠 Long-Term Memory for LLMs
+* 📱 React Native
+* 🌐 Full-Stack Development
+* ☁️ Backend Architecture
+
+---
+
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/bongocat.gif" width="50px" /> Featured Projects
 
 #### 🧠 Synapse
+
 AI Memory Infrastructure enabling persistent contextual memory for AI applications and LLMs.
 
 #### 📦 Synapse SDK
+
 Zero-dependency TypeScript SDK for integrating Synapse into Node.js and browser applications.
 
 #### 💬 Real-Time Messaging Platform
+
 Cross-platform messaging application built with React Native, Socket.IO, Redis, MongoDB, and AWS.
 
 #### ⚔️ AI Debate Partner
+
 AI-powered debate platform supporting multi-turn conversations with intelligent context management.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/bongocat.gif" width="50px" /> How to reach me
 
 <p align="center">
 
@@ -127,7 +131,7 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools & Frameworks
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/pickaxe.png" width="40px" /> Tools & Frameworks
 
 <p align="center">
 
@@ -145,31 +149,31 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> GitHub Stats
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/stats.png" width="35px" /> GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=krishkhare049&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=krishkhare049&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishkhare049&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="40px" /> Current Goals
-
-- 🚀 Launch Synapse publicly
-- 🌍 Build AI infrastructure used by developers worldwide
-- 📦 Publish more open-source packages
-- 🧠 Master distributed systems & LLM infrastructure
-- 💼 Work with an ambitious engineering team while growing Khare Industries
+![](https://github-readme-stats.shion.dev/api?username=krishkhare049\&theme=ambient_gradient\&hide_border=true\&include_all_commits=false\&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=krishkhare049\&theme=ambient_gradient\&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishkhare049\&theme=ambient_gradient\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="40px" /> Fun Facts
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/controller.png" width="40px" /> Current Goals
 
-- ☕ I can spend hours optimizing backend systems.
-- 🧠 I enjoy building products from scratch.
-- 📚 Always learning something new in AI and distributed systems.
-- 🌙 Most productive late at night.
-- 🚀 I believe great software is built by shipping, learning, and iterating.
+* 🚀 Launch Synapse publicly
+* 🌍 Build AI infrastructure used by developers worldwide
+* 📦 Publish more open-source packages
+* 🧠 Master distributed systems & LLM infrastructure
+* 💼 Work with an ambitious engineering team while growing Khare Industries
+
+---
+
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/party_parrot.gif" height="40px" /> Fun Facts
+
+* ☕ I can spend hours optimizing backend systems.
+* 🧠 I enjoy building products from scratch.
+* 📚 Always learning something new in AI and distributed systems.
+* 🌙 Most productive late at night.
+* 🚀 I believe great software is built by shipping, learning, and iterating.
 
 ---
 
@@ -179,7 +183,7 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
 <h3 align="center">
 ⭐ Building the future of AI Memory Infrastructure with ❤️ from India 🇮🇳
