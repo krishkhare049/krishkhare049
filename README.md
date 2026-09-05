@@ -211,5 +211,5 @@ width="48%"
 </p>
 
 <h3 align="center">
-⭐ Building the future of AI Memory Infrastructure
+⭐ Building the future of AI Infrastructure
 </h3>
