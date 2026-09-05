@@ -15,8 +15,6 @@
     <br/>
     TypeScript enthusiast • Python lover • Backend engineer.
     <br/>
-    Founder of <strong>Khare Industries</strong>.
-    <br/>
     Passionate about shipping production software,
     <br/>
     continuously learning, solving real-world problems,
@@ -40,7 +38,7 @@ width="30%"
 * 🧠 **Synapse** — AI Memory Infrastructure for persistent contextual memory across LLM sessions.
 * 📦 **@khareindustries/synapse-sdk** — Zero-dependency TypeScript SDK published on npm.
 * ⚡ Building scalable backend systems using FastAPI, Redis, Qdrant, and AWS.
-* 🚀 Growing Khare Industries and open-source AI developer tools.
+* 🚀 Growing open-source AI developer tools.
 
 ---
 
@@ -183,7 +181,7 @@ width="48%"
 * 🌍 Build AI infrastructure used by developers worldwide
 * 📦 Publish more open-source packages
 * 🧠 Master distributed systems & LLM infrastructure
-* 💼 Work with an ambitious engineering team while growing Khare Industries
+* 💼 Work with an ambitious engineering team
 
 ---
 
@@ -213,5 +211,5 @@ width="48%"
 </p>
 
 <h3 align="center">
-⭐ Building the future of AI Memory Infrastructure with ❤️ from India 🇮🇳
+⭐ Building the future of AI Memory Infrastructure
 </h3>
